@@ -5,7 +5,7 @@ design que foi criado inteiramente por principalmente a logo que foi conceituada
 
 Esse app possui todos os requisitos pedido em aula e durante o semestre possuindo: 3 telas com: icones, text, view, input, flatlist, touchableopacity.
 
-= ele pode : adicionar, editar e deletar 
+- ele pode : adicionar, editar e deletar 
 
-Imagens do app : ![BCheck-app](URL_da_imagem)
+Imagens do app : ![BCheck-entrar](https://github.com/dogm19/projeto_react-native-BCheck/blob/main/assets/entrar.png) ![BCheck-entrar](https://github.com/dogm19/projeto_react-native-BCheck/blob/main/assets/entrar.png)
 
