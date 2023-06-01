@@ -7,5 +7,7 @@ Esse app possui todos os requisitos pedido em aula e durante o semestre possuind
 
 - ele pode : adicionar, editar e deletar 
 
-Imagens do app : ![BCheck-entrar](https://github.com/dogm19/projeto_react-native-BCheck/blob/main/assets/entrar.png) ![BCheck-entrar](https://github.com/dogm19/projeto_react-native-BCheck/blob/main/assets/entrar.png)
+Imagens do app : 
+![BCheck-entrar](https://github.com/dogm19/projeto_react-native-BCheck/blob/main/assets/entrar.png) ![BCheck-entrar](https://github.com/dogm19/projeto_react-native-BCheck/blob/main/assets/lista.png)
+![BCheck-entrar](https://github.com/dogm19/projeto_react-native-BCheck/blob/main/assets/adicionar.png) ![BCheck-entrar](https://github.com/dogm19/projeto_react-native-BCheck/blob/main/assets/editar.png)
 
